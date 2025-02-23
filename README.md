@@ -1,4 +1,7 @@
 # autodecrypt
+
+Fix www.theiphonewiki.com Error
+
 [![PyPI version](https://badge.fury.io/py/autodecrypt.svg)](https://badge.fury.io/py/autodecrypt)
 
 Simple tool to decrypt iOS firmware images.
